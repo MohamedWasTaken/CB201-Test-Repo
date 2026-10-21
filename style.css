@@ -1,1 +1,48 @@
-font-family: 'Comfortaa', cursive;
+
+.comfortaa-<uniquifier> {
+  font-family: "Comfortaa", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+}
+p {
+  font-family: "IBM Plex Serif", serif;
+  line-height: 1.7;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Comfortaa", sans-serif;
+  font-size: 36px;
+  text-align: center;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "IBM Plex Serif", serif;
+  font-size: 24px;
+  text-align: center;
+  font-style: normal;
+}
+
+a {
+  font-family: "IBM Plex Serif", serif;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  font-style: normal;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.link {
+  text-align: center;
+}
