@@ -22,11 +22,12 @@ h2 {
 
 a {
   font-family: "IBM Plex Serif", serif;
-  font-size: 18px;
+  font-size: 30px;
   text-align: center;
   text-decoration: none;
-  font-style: normal;
+  font-style: cursive;
   margin: 0 auto;
+  color: #75b3ff;
 }
 
 img {
@@ -34,6 +35,7 @@ img {
   margin: 0 auto;
   max-width: 100%;
   height: auto;
+  outline: rgb(20, 20, 20);;
 }
 
 .link {
@@ -41,7 +43,8 @@ img {
 }
 
 div {
-  border: 5px solid #000;
-  padding: 10px;
+  padding: 100px;
   margin: 10px;
+  text-align: center;
 }
+
