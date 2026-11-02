@@ -29,6 +29,7 @@ a {
   margin: 0 auto;
   color: #75b3ff;
 }
+h1
 
 img {
   display: block;
@@ -36,6 +37,7 @@ img {
   max-width: 100%;
   height: auto;
   outline: rgb(20, 20, 20);;
+  text-align: center;
 }
 
 .link {
